@@ -1,173 +1,177 @@
-# 🩸 GUÍA VitalBlood  
+# 🩸 Guía VitalBlood  
 ## Tu hoja de ruta para solicitar biomarcadores clave de longevidad a tu médico
 
+> “La medicina del futuro no espera a la enfermedad: la anticipa, la mide y la previene.”
+
+Esta guía te ayudará a conversar con tu médico con argumentos científicos claros, solicitando biomarcadores que reflejan tu estado de salud.
 ---
 
-> **“La medicina del futuro no espera a la enfermedad: la anticipa, la mide y la previene.”**  
-> Esta guía está diseñada para ayudarte a conversar con tu médico con argumentos claros y científicos, solicitando biomarcadores clave que reflejan tu estado de salud y envejecimiento real.
+## 🧪 Biomarcadores esenciales para prevención
+
+### 🔥 Inflamación y daño oxidativo
+La inflamación crónica de bajo grado ("inflammaging") y el estrés oxidativo aceleran el envejecimiento biológico y elevan el riesgo de enfermedades cardiovasculares, neurodegenerativas y cáncer.
+
+- **Proteína C Reactiva ultrasensible (PCR-us)**  
+  _Detecta inflamación crónica subclínica._
+- **Neutrófilos/Linfocitos ratio (NLR)**  
+  _Predice mortalidad y carga inflamatoria sistémica._
+- **Glutatión reducido (GSH)**  
+  _Antioxidante maestro intracelular; disminuye con la edad._
+- **8-OHdG en orina**  
+  _Mide daño oxidativo al ADN, asociado a envejecimiento celular._
+
+### ❤️ Perfil cardiovascular y lipídico
+Más allá del colesterol total, estos marcadores permiten un análisis funcional del riesgo aterogénico.
+
+- **Colesterol total, HDL, LDL, Triglicéridos**
+- **Índice de aterogenicidad**  
+  _(colesterol total - HDL) / HDL_
+- **Lipoproteína(a) – Lp(a)**  
+  _Riesgo cardiovascular genético, no modificable por estilo de vida._
+- **Apolipoproteína B (ApoB)** *(opcional – requiere interpretación avanzada)*  
+  _Mejor predictor de partículas aterogénicas que el LDL._
+- **% AAGG Omega-3**  
+  _Marcador de inflamación inversa y longevidad cardiovascular._
+- **Homocisteína**  
+  _Aminoácido asociado con riesgo cardiovascular, disfunción endotelial y neurodegeneración._
+
+### 🧬 Metabolismo glucémico e insulínico
+La disfunción metabólica es una de las principales causas del envejecimiento acelerado.
+
+- **Glucosa en ayunas**
+- **Insulina en ayunas**
+- **Hemoglobina glicosilada (HbA1c)**  
+  _Promedio de glucosa en 3 meses._
+- **Péptido C**  
+  _Evalúa la producción endógena de insulina._
+- **Índice HOMA-IR** *(opcional – requiere cálculo e interpretación avanzada)*  
+  _Estimación de resistencia a la insulina._
+- **Índice TG/HDL**  
+  _Correlaciona con insulinoresistencia, hígado graso y dislipemia aterogénica._
+
+### 🧠 Hormonas y longevidad endocrina
+Las hormonas son reguladores maestros del metabolismo, inmunidad, ánimo y longevidad celular.
+
+- **DHEA-S**  
+  _Marcador de vitalidad e inmunidad._
+- **Cortisol matutino**  
+  _Eje HHA, estrés crónico y función suprarrenal._
+- **Testosterona total y libre (hombres)**
+- **SHBG y testosterona biodisponible** *(opcional – interpretación avanzada)*
+- **Estradiol, Progesterona, Estriol (mujeres)**
+
+### 🦋 Función tiroidea y autoinmunidad
+La disfunción tiroidea y los procesos autoinmunes subclínicos son frecuentes y suelen pasar desapercibidos.
+
+- **TSH, T3 libre, T4 libre**
+- **Anti-TPO y Anti-Tg** *(opcional – importante en sospecha de autoinmunidad)*  
+  _Detección precoz de tiroiditis autoinmune silenciosa._
+
+### 🧂 Función renal y electrolitos
+Fundamental para evaluar excreción, equilibrio hidroelectrolítico y envejecimiento vascular.
+
+- **Creatinina sérica**
+- **Filtrado Glomerular estimado (CKD-EPI)**
+- **Sodio y Potasio**
+
+### 🍷 Función hepática
+El hígado regula metabolismo, detoxificación y hormonas. Su función puede alterarse sin síntomas.
+
+- **Transaminasas: GOT (AST), GPT (ALT)**
+- **Gamma-Glutamil Transferasa (GGT)**
+
+### 🌿 Vitaminas y micronutrientes
+Deficiencias ocultas pueden acelerar deterioro cognitivo, inmunológico y metabólico.
+
+- **Vitamina D (25-OH)**
+- **Vitamina B12 activa (holotranscobalamina)**
+- **Magnesio intraeritrocitario**
+- **Zinc / Cobre (Ratio)** *(opcional – requiere interpretación avanzada)*
+
+### 🧲 Metabolismo del hierro
+Permite detectar tanto deficiencias como sobrecargas, ambas asociadas a mayor mortalidad.
+
+- **Hierro sérico**
+- **Transferrina**
+- **Índice de saturación de transferrina (IST)**
+- **TIBC / UIBC**
+- **Ferritina**
+
+### 🧪 Hemograma completo
+Proporciona información clave sobre estado hematológico, inflamatorio y regenerativo.
+
+- Hemoglobina, Hematocrito, RDW, MCV
+- Leucocitos, Linfocitos, Neutrófilos, Plaquetas
+
+### 🧷 Biomarcadores generales
+- **Albúmina sérica**  
+  _Marcador de longevidad, estado nutricional y carga inflamatoria._
+
+### 👨‍⚕️ Otros marcadores útiles
+- **PSA (hombres >40 años)**  
+  _Detección precoz de riesgo prostático._
 
 ---
 
-## 🔍 ¿Qué encontrarás en esta guía?
+## 🧠 Tips para hablar con tu médico
 
-- Los 16 biomarcadores más relevantes para tu longevidad y salud metabólica
-- Frases sugeridas para hablar con tu médico
-- Justificación científica sencilla, pero rigurosa
-- Opciones para ir más allá con herramientas como PhenoAge y Framingham
-- Acceso a especialistas en longevidad desde **VitalExtension.com**
-
----
-
-## 🧪 BIOMARCADORES ESENCIALES PARA Longevidad y Prevención
-
-### 1. Proteína C Reactiva ultrasensible (PCR-us)  
-Detecta inflamación crónica de bajo grado, factor clave en envejecimiento y riesgo cardiovascular.  
-🗣️ *“¿Podemos incluir la PCR-us para evaluar inflamación silenciosa y riesgo vascular?”*
-
-### 2. Homocisteína  
-Marcador de riesgo vascular, neurodegeneración y envejecimiento.  
-🗣️ *“He leído que niveles altos de homocisteína están asociados a envejecimiento vascular.”*
-
-### 3. Lipoproteína(a) – Lp(a)  
-Riesgo cardiovascular genético, no modificable por estilo de vida.  
-🗣️ *“¿Podríamos medir mi Lp(a)? Sé que es un predictor independiente de riesgo.”*
-
-### 4. Insulina en ayunas  
-Detecta resistencia a la insulina antes de que suba la glucosa.  
-🗣️ *“Me interesa ver si hay señales tempranas de disfunción metabólica.”*
-
-### 5. Hemoglobina glicosilada (HbA1c)  
-Refleja el promedio de glucosa de los últimos 3 meses.  
-🗣️ *“¿Podemos revisar mi HbA1c para ver cómo manejo la glucosa a largo plazo?”*
-
-### 6. Péptido C  
-Evalúa la producción de insulina endógena y posible resistencia.  
-🗣️ *“¿Podemos incluir el péptido C para ver si mi páncreas está hiperactivo?”*
-
-### 7. Glutatión reducido (GSH)  
-Antioxidante maestro intracelular, indicador de envejecimiento celular.  
-🗣️ *“He leído que el glutatión bajo está ligado al daño oxidativo acumulado.”*
-
-### 8. 8-OHdG en orina  
-Mide daño oxidativo al ADN, vinculado con cáncer y envejecimiento.  
-🗣️ *“¿Podríamos evaluar 8-OHdG para ver si tengo estrés oxidativo celular?”*
-
-### 9. Longitud de telómeros (opcional)  
-Estimación del envejecimiento biológico a nivel celular.  
-🗣️ *“Sé que no es una prueba común, pero me interesa valorar mi edad biológica.”*
-
-### 10. DHEA-S  
-Marcador de vitalidad, inmunidad y envejecimiento endocrino.  
-🗣️ *“¿Podemos evaluar mis niveles de DHEA-S? Sé que caen con la edad.”*
-
-### 11. Testosterona total y libre (hombres)  
-Hormona clave en longevidad masculina, masa muscular y energía.  
-🗣️ *“Me gustaría conocer mis niveles de testosterona por prevención.”*
-
-### 12. Estradiol y Progesterona (mujeres)  
-Hormonas sexuales femeninas, claves en metabolismo, hueso y ánimo.  
-🗣️ *“¿Podemos medir estrógenos y progesterona para anticipar el climaterio?”*
-
-### 13. TSH, T3 libre, T4 libre  
-Evaluación completa de la función tiroidea.  
-🗣️ *“¿Podemos revisar no solo la TSH, sino también T3 y T4 libres?”*
-
-### 14. Vitamina D (25-OH)  
-Marcador inmunitario y antienvejecimiento.  
-🗣️ *“¿Podemos incluir la vitamina D? Sé que es clave para el sistema inmune.”*
-
-### 15. Vitamina B12 (holotranscobalamina)  
-Prevención de fatiga, niebla mental y deterioro cognitivo.  
-🗣️ *“¿Podemos medir la B12 activa para descartar deficiencias ocultas?”*
-
-### 16. Ferritina  
-Reserva de hierro y marcador indirecto de inflamación.  
-🗣️ *“Me interesa saber si tengo niveles óptimos de ferritina, ni bajos ni altos.”*
+- Lleva esta guía impresa o en tu móvil.
+- Usa frases proactivas:  
+  _“¿Podemos incluir este marcador como parte de un enfoque preventivo?”_
+- Recuerda: tú eres el guardián de tu salud, tu médico es tu aliado.
 
 ---
-
-## 🧠 TIPS PARA HABLAR CON TU MÉDICO
-
-1. 📄 **Lleva esta guía impresa o en tu móvil**. Señala los biomarcadores que deseas comentar.
-2. 🗣️ **Usa frases proactivas y respetuosas**: “¿Podemos hacer esto como parte de un enfoque preventivo?”
-3. 🧑‍⚕️ **Adapta tu enfoque según tu médico**: si es privado o funcional, puedes ir más allá. En el sistema público, céntrate en los esenciales.
-4. 💡 **Recuerda**: pedir no es imponer. Tú eres el guardián de tu salud, tu médico es tu aliado.
-
----
-
-
-
 
 ## 🧬 BIOBOX – ¿Quieres conocer tu edad biológica real?
 
-**PhenoAge** es un índice científico validado para calcular tu edad biológica a partir de 9 biomarcadores clínicos comunes.
+PhenoAge es un índice validado que usa biomarcadores clínicos comunes para estimar tu edad biológica:
 
-| Biomarcador para PhenoAge              | Incluido en esta guía |
-|----------------------------------------|------------------------|
-| Albúmina sérica                        | ❌                    |
-| Creatinina sérica                      | ❌                    |
-| Glucosa en ayunas                      | ✅                    |
-| PCR ultrasensible                      | ✅                    |
-| Leucocitos totales                     | ❌                    |
-| Linfocitos %                           | ❌                    |
-| Fosfatasa alcalina                     | ❌                    |
-| Hemoglobina, RDW, MCV (hemograma)     | ❌                    |
+| Biomarcador | ¿Incluido en esta guía? |
+|-------------|--------------------------|
+| Albúmina    | ✅                       |
+| Creatinina  | ✅                       |
+| Glucosa     | ✅                       |
+| PCR-us      | ✅                       |
+| Leucocitos  | ✅                       |
+| Linfocitos %| ✅                       |
+| Fosfatasa alcalina | ✅               |
+| Hemoglobina | ✅                       |
+| RDW         | ✅                       |
 
-🗣️ *“¿Podemos incluir estos parámetros para calcular mi edad biológica PhenoAge?”*
 
-🔗 Puedes calcular tu edad biológica real en:  
-👉 **[www.vitalextension.com](https://www.vitalextension.com)**
-
----
-
-## ❤️ BIOBOX – ¿Conoces tu edad vascular real?
-
-El test **Framingham** estima tu riesgo cardiovascular a 10 años. En VitalExtension.com puedes usarlo gratis con tus datos clínicos.
-
-| Parámetro requerido                    | Incluido en esta guía |
-|----------------------------------------|------------------------|
-| Edad, sexo, tabaquismo                 | ✅                    |
-| Presión arterial                       | ❌                    |
-| Colesterol total y HDL                | ❌                    |
-| Diabetes diagnosticada                 | ✅                    |
-
-🗣️ *“¿Podemos revisar los datos para estimar mi riesgo cardiovascular Framingham?”*
-
-🔗 Calcula tu riesgo en:  
-👉 **[www.vitalextension.com](https://www.vitalextension.com)**
+🧮 Calcula tu PhenoAge en: [vitalextension.com](https://www.vitalextension.com)
 
 ---
 
-## 🚀 VITALBLOOD PRO – SOLO PARA PACIENTES AVANZADOS
+## 🚀 VitalBlood PRO – Solo para médicos o usuarios avanzados
 
-> Esta sección es opcional y pensada para pacientes que ya están trabajando con médicos especializados en longevidad.
+Estos biomarcadores requieren interpretación por médicos funcionales o especializados:
 
-| # | Biomarcador PRO              | ¿Qué evalúa?                              |
-|----|------------------------------|--------------------------------------------|
-| 17 | IL-6                         | Inflammaging / inflamación silenciosa     |
-| 18 | ApoB                         | Riesgo cardiovascular más preciso que LDL |
-| 19 | HOMA-IR                      | Resistencia a la insulina real            |
-| 20 | TMAO                         | Riesgo cardiovascular microbiano          |
-| 21 | hs-Troponina T               | Lesión cardíaca subclínica                |
-| 22 | NT-proBNP                    | Envejecimiento cardíaco silencioso        |
-| 23 | Cortisol matutino            | Salud del eje HHA / estrés crónico        |
-| 24 | T3 reversa / T3 libre        | Conversión tiroidea funcional             |
-| 25 | Ratio Zinc / Cobre           | Defensa antioxidante e inmunidad          |
+| # | Biomarcador PRO                | ¿Qué evalúa? |
+|----|-------------------------------|-------------------------------|
+| 1  | IL-6                          | Inflammaging / inflamación crónica |
+| 2  | ApoB                          | Riesgo cardiovascular con contexto lipídico discordante |
+| 3  | HOMA-IR                       | Estimación de insulinoresistencia precisa |
+| 4  | TMAO                          | Riesgo cardiovascular microbiano |
+| 5  | hs-Troponina T                | Lesión miocárdica subclínica |
+| 6  | NT-proBNP                     | Disfunción ventricular oculta |
+| 7  | T3 reversa                    | Bloqueos en conversión tiroidea |
+| 8  | Zinc/Cobre ratio              | Carga oxidativa e inmunidad |
+| 9  | Creatina Kinasa (CK)         | Lesión muscular crónica o sarcopenia incipiente |
+| 10 | Anti-TPO / Anti-Tg            | Sospecha de autoinmunidad tiroidea silenciosa |
 
-🧠 *Consulta a un médico experto antes de pedirlos. Estos biomarcadores requieren interpretación avanzada.*
-
----
-
-## 📣 CTA FINAL
-
-¿Ya tienes tus resultados y no sabes cómo interpretarlos?  
-En **[www.vitalextension.com](https://www.vitalextension.com)** puedes reservar cita con uno de nuestros especialistas mediante videoconferencia.
-
-✅ Resolverás todas tus dudas  
-✅ Obtendrás una interpretación personalizada de tus biomarcadores  
-✅ Te ayudaremos a tomar decisiones antes de que aparezcan los problemas
-
-**📍 Vital Extension: medicina de precisión para una vida más larga y mejor.**
+> _Consulta a un médico experto antes de solicitarlos._
 
 ---
 
+## 📣 ¿Ya tienes tus resultados?
+
+En [vitalextension.com](https://www.vitalextension.com) puedes:
+
+- 📞 Reservar una videoconsulta con un especialista, con nuestro servicio VitalCare.
+- 🧠 Conocer tu edad biológica con PhenoAge
+- 🛡️ Tomar decisiones antes de que aparezcan los problemas
+
+---
+
+**VitalExtension: medicina de precisión para una vida más larga y mejor.**
