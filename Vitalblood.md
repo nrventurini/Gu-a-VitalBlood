@@ -79,6 +79,7 @@ El hígado regula metabolismo, detoxificación y hormonas. Su función puede alt
 
 - **Transaminasas: GOT (AST), GPT (ALT)**
 - **Gamma-Glutamil Transferasa (GGT)**
+- **Fosfatasa alcalina**
 
 ### 🌿 Vitaminas y micronutrientes
 Deficiencias ocultas pueden acelerar deterioro cognitivo, inmunológico y metabólico.
